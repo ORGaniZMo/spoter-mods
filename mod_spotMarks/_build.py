@@ -9,8 +9,8 @@ import shutil
 import subprocess
 import base64
 
-CLIENT_VERSION = '1.0.1.1'
-NAME = 'spoter.mod_pro_potapov_fixArty'
+CLIENT_VERSION = '1.4.0.1'
+NAME = 'spoter.mod_spotMarks'
 ADD_LICENSE = True
 
 
